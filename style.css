@@ -1,0 +1,18 @@
+.filmes_hj {
+  color: darkred;
+}
+.filmes_amh {
+  color: darkblue;
+}
+.none_under {
+  text-decoration: none;
+}
+.cor_link_est {
+  color: seagreen;
+}
+.fonte_p {
+  font-size: 20px;
+}
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
